@@ -1,2 +1,2 @@
 # GODSPEED
-Godspeed is a PCB made for Mercury
+Godspeed is a motor controller PCB made for Mercury
