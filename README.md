@@ -1,6 +1,9 @@
 # GODSPEED
 Godspeed is a motor controller PCB made for Mercury
 
+Currently down.... be back soon
+Mercury currently using a PCA9658 12C Motor Controller
+
 
 
 .ZIP file contains gerber and kicad project.
